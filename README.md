@@ -1,6 +1,6 @@
 # Learning manim
 
-manim is the mathematical animation library developed by Grant Sanderson (author of the youtube channel called [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw))
+Manim is a mathematical animation library developed by Grant Sanderson (author of the youtube channel called [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw))
 
 This repo contains some of my attempts at producing manim animations!
 
